@@ -119,22 +119,26 @@ Built with React and Redux
 To get a local copy up and running follow these simple example steps:
 
 - Clone the repository:
-- SSH: <git@github.com:Aduda-Boaz/hello-react-front-end.git>
+- SSH: <git@github.com:Aduda-Boaz/hello-frontend.git>
 - Navigate to the project directory in the terminal, run the following command:
 
-> bundle install
+> npm install
 
 - Please run:
-
-> rails s
-
-- go to: <http://localhost:3000/api/v1/greetings>
-
-- Open the the hello-react-front-end, navigate to the cloned project directory and run:
 
 > npm start
 
 - go to: <http://localhost:3001>
+
+## back-end Repo
+
+[Repo-back-end-api](https://github.com/Aduda-Boaz/rails-backend-api)
+
+- Open the the rails-back-end, navigate to the cloned project directory and run:
+
+> rails s
+
+- go to: <http://localhost:3000/api/v1/greetings>
 
 ### Deployment
 
