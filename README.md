@@ -134,6 +134,10 @@ To get a local copy up and running follow these simple example steps:
 
 [Repo-back-end-api](https://github.com/Aduda-Boaz/rails-backend-api)
 
+## back-en PR
+
+[Repo-back-end-api PR](https://github.com/Aduda-Boaz/rails-backend-api/pull/2)
+
 - Open the the rails-back-end, navigate to the cloned project directory and run:
 
 > rails s
